@@ -1,0 +1,8 @@
+```json
+    {
+      "dependencies": {
+        "notp": "^2.0.3",
+        "qrcode": "^1.5.3"
+      }
+    }
+    ```
